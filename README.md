@@ -20,10 +20,6 @@ as well as advanced functions such as square root, percentage, and power.
 - CSS3
 - JavaScript (ES6)
 
-## 📷 Screenshots
-
-![Calculator Screenshot] (<screenshot.png>)
-
 ## 🚀 How to Use
 
 1. Clone or download this repository.
