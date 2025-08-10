@@ -22,7 +22,7 @@ as well as advanced functions such as square root, percentage, and power.
 
 ## 📷 Screenshots
 
-![Calculator Screenshot] (screenshot.png)
+![Calculator Screenshot] (<screenshot.png>)
 
 ## 🚀 How to Use
 
